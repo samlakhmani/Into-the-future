@@ -1,6 +1,6 @@
 # Into-the-future
 
-This is an repository for a data set provided for an internship. The final Soilution is on Kaggle, but I will be adding that here, after the competition is over!
+This is an repository for a data set provided for an competition. The final Soilution is on Kaggle, but I will be adding that here, after the competition is over!
 There are more really insightful notebooks in the comeptition, with a different prespective from mine, please review the competition. 
 
 https://www.kaggle.com/c/into-the-future
